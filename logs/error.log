@@ -14,3 +14,4 @@
 2022/01/17 21:48:13 [error] 17668#14968: *33 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: , request: "GET / HTTP/1.1", upstream: "http://[::1]:8080/", host: "localhost:8888"
 2022/01/17 21:48:13 [error] 17668#14968: *41 CreateFile() "G:\nginx\nginx/course/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.0", host: "localhost:8080", referrer: "http://localhost:8888/"
 2022/01/17 21:50:42 [notice] 13012#9108: signal process started
+2022/01/17 21:50:51 [error] 2484#9300: *44 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: , request: "GET / HTTP/1.1", upstream: "http://[::1]:8080/", host: "localhost:8888"
